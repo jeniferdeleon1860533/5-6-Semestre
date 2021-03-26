@@ -25,3 +25,7 @@ Presentación 1 (solo incluye la parte del modelo)
 [Teoría de decisión revisada, juego contra la naturaleza](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Teor%C3%ADa_de_Decisi%C3%B3n.pdf)
 
 [Teoría de juegos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Teor%C3%ADa_de_Juegos.pdf)
+
+Minería de Datos
+
+[URL de libros de phyton](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Links_MD.pdf)

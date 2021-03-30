@@ -1,7 +1,6 @@
 # 5-6 SEMESTRE
 
-M O D E L A D O              
-M A T E M Á T I C O
+M O D E L A D O    /          M A T E M Á T I C O
 
 Parcial 1
 
@@ -27,9 +26,7 @@ Presentación 1 (solo incluye la parte del modelo)
 
 [Teoría de juegos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Teor%C3%ADa_de_Juegos.pdf)
 
-M I N E R Í A          
-D E         
-D A T O S
+M I N E R Í A       /   D E      /   D A T O S
 
 [URL de libros de phyton](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Links_MD.pdf)
 

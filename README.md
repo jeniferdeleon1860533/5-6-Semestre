@@ -1,6 +1,6 @@
 # 5-6 SEMESTRE
 
-Modelado Matemático
+M O D E L A D O   M A T E M Á T I C O
 
 Parcial 1
 

@@ -4,6 +4,22 @@ M O D E L A D O    /          M A T E M Á T I C O
 
 Parcial 1
 
+Temas y ejemplos
+
+[Conceptos básicos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/01_Conceptos%20b%C3%A1sicos%20de%20modelado%20matem%C3%A1tico.pdf)
+
+[Ejemplos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/03_04Regia_tuk_inversion_seguridad.pdf)
+
+[Ejemplo excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/05_Gaermont_oil_distillery.xlsx)
+
+[Ejemplo excel madera](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/08_madera.xlsx)
+
+[Ejemplo excel inversión y transportación](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/09_inversionYtranspotation.xlsx)
+
+[Ejemplo excel transporte](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/10_Transporte_2.xlsx)
+
+[Ejemplo excel Gaermont](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/11_GaermontNews.xlsx)
+
 Presentación 1 (solo incluye la parte del modelo)
 
 [Aproximación de cambios con ecuaciones diferenciales](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Aproximaci%C3%B3deCambios_con%20EcuacionesDiferenciales.pdf)
@@ -25,6 +41,12 @@ Presentación 1 (solo incluye la parte del modelo)
 [Teoría de decisión revisada, juego contra la naturaleza](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Teor%C3%ADa_de_Decisi%C3%B3n.pdf)
 
 [Teoría de juegos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Teor%C3%ADa_de_Juegos.pdf)
+
+Examen Parcial 1
+
+[Parcial 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Examen1Qns.pdf)
+
+[Parcial 1 resuelto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1860533_Examen1.pdf)
 
 M I N E R Í A       /   D E      /   D A T O S
 

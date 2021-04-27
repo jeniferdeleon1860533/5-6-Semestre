@@ -72,4 +72,18 @@ Presentación por equipo
 
 [Árboles de decisión](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Presentaci%C3%B3n_%C3%81rboles%20de%20desici%C3%B3n_Equipo7.pdf)
 
+C O M P O R T A M I E N T O  /  O R G A N I Z A C I O N A L
+
+Parcial 1
+
+[Tema 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/TEMA1_Feb21.pdf)
+
+[Tema 2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/TEMA2-Determinantes%20del%20desempe%C3%B1o%20individual.pdf)
+
+[Tema 4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/T4-Satisfacci%C3%B3n%20laboral-Teams.pdf)
+
+[Tarea cuadro sinóptico](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea_CuadroSin%C3%B3ptico.pdf)
+
+
+
 

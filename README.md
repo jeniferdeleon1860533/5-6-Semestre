@@ -84,6 +84,60 @@ Parcial 1
 
 [Tarea cuadro sinóptico](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea_CuadroSin%C3%B3ptico.pdf)
 
+I N F E R E N C I A  
+
+[Introducción](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Unidad%20%201%20Introducci%C3%B3n.pdf)
+
+Parcial 1
+
+[Unidad 2, Análisis exploratorios de datos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Unidad%202%20An%C3%A1lisis%20exploratorio%2)
+
+[Estadistica descriptiva](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/descriptiva.pdf)
+
+[Excel datos de estadística descriptiva](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Datos_Estad%C3%ADstica_Descriptiva.xlsx)
+
+[Instrucciones tarea del parcial 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea3%20Estadistica%20Inferencial%20F)
+
+[Tarea del parcial 1 en excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea3_JenniferPriscilaDeLeonFlores.xlsx)
+
+[Parcial 1 instrucciones ](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1er.%20Examen%20Parcial%20Estadistica%20Inferencial%20Feb-Jun21.pdf)
+
+[Parcial 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/P1JenniferPriscilaDeLeonFlores.pdf)
+
+Parcial 2
+
+[Unidad 4 :Estimación puntual](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Unidad%20%203%20Estimaci%C3%B3n%20puntual.pdf)
+
+[Tarea unidad 4 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea4%20Estadistica%20Inferencial.pdf)
+
+[Tarea 4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea4_JPDLF.pdf)
+
+[Parcial 2 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/2do.%20Examen%20Parcial%20Estadistica%20Inferencial%20Feb-Jun21.pdf)
+
+[Parcial 2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Examen2_JPDLF.pdf)
+
+Parcial 3
+
+[Unidad 4: Estimación por intervalos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Unidad%204%20Estimaci%C3%B3n%20por%20intervalo%20Feb-Jun21.pdf)
+
+[Excel estimación por intervalos formúlas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Estimacion%20por%20intervalos.xlsm)
+
+[Estimación por intervalos ejemplos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Estimacion%20por%20intervalos.xlsm)
+
+[Tablas de distribución](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tablas%20de%20Distribuci%C3%B3n.pdf)
+
+[Tarea unidad 4 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea5%20Unidad%204%20Inferencia%20estadistica.pdf)
+
+[Tarea unidad 4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea5.pdf)
+
+[Parcial 3 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/3er.%20Examen%20Parcial%20Estadistica%20Inferencial%20Feb-Jun21.pdf)
+
+[Parcial 3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1860533_DeLeonFlores.pdf)
+
+
+
+
+
 
 
 

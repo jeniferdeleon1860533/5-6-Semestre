@@ -46,8 +46,8 @@ Examen Parcial 1
 
 [Parcial 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Examen1Qns.pdf)
 
-[Parcial 1 resuelto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1860533_Examen1.pdf)
-[Parcial 1 resuelto por el profe](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Examen1Ans.pdf)
+[Parcial 1 resuelto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1860533_Examen1.pdf)//  
+    [Parcial 1 resuelto por el profe](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Examen1Ans.pdf)
 
 M I N E R Í A       /   D E      /   D A T O S
 

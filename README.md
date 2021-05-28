@@ -64,7 +64,7 @@ Presentación 2
 
 [Control químico con resistencia del Aedes aegypti](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/ControlQu%C3%ADmicoConResistenciaDelAedesAEGYPTI.pdf)
 
-QUIZ 
+QUIZ /
 [8,9,10](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/QUIZ.pdf)
 
 M I N E R Í A       /   D E      /   D A T O S
@@ -105,6 +105,7 @@ Parcial 1
 [Tarea cuadro sinóptico](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea_CuadroSin%C3%B3ptico.pdf)
 
 PIA
+
 [Caso 3-Creación de una coalición](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Caso3_Equipo2.pdf)
 
 
@@ -233,7 +234,7 @@ Presentación por equipo
 
 [Tarea leyes universales e históricas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_Tarea3_Leyes%20universales%20e%20hist%C3%B3ricas.pdf)
 
-[PIA](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_PIA.pdf)
+[PIA](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_PIA.pdf)/
 [PIA-resultados](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_PIA_Resultados.pdf)
 
 

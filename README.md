@@ -48,6 +48,25 @@ Examen Parcial 1
 
 [Parcial 1 resuelto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1860533_Examen1.pdf)//  [Parcial 1 resuelto por el profe](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Examen1Ans.pdf)
 
+Presentación 2
+
+[Análisis por envoltura de datos (DEA-CCR)](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/An%C3%A1lisisPorEnvolturaDeDatos.pdf)
+
+[Árboles de desición al estudio de las variables  del modelo de indicadores de gestión de las universidades públicas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/ArbolesDeDesici%C3%B3n_.pdf)
+
+[Markowitz en la optimización de portafolios de inversión](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/MarkowitzOptimizaci%C3%B3n.pdf)
+
+[Usando proporcionalidad](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/ModelosUsandoProporcionalidad.pdf)
+
+[Optimización de los recursos de proyectos cientificos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Optimizaci%C3%B3nProyectosCientificos.pdf)
+
+[Ruina del jugador](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/RuinaDelJugador.pdf)
+
+[Control químico con resistencia del Aedes aegypti](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/ControlQu%C3%ADmicoConResistenciaDelAedesAEGYPTI.pdf)
+
+QUIZ 
+[8,9,10](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/QUIZ.pdf)
+
 M I N E R Í A       /   D E      /   D A T O S
 
 [URL de libros de phyton](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Links_MD.pdf)
@@ -72,6 +91,7 @@ Presentación por equipo
 
 [Árboles de decisión](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Presentaci%C3%B3n_%C3%81rboles%20de%20desici%C3%B3n_Equipo7.pdf)
 
+
 C O M P O R T A M I E N T O  /  O R G A N I Z A C I O N A L
 
 Parcial 1
@@ -83,6 +103,35 @@ Parcial 1
 [Tema 4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/T4-Satisfacci%C3%B3n%20laboral-Teams.pdf)
 
 [Tarea cuadro sinóptico](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea_CuadroSin%C3%B3ptico.pdf)
+
+PIA
+[Caso 3-Creación de una coalición](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Caso3_Equipo2.pdf)
+
+
+Parcial 2
+
+[Tema 5](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Tema5-Liderazgo-Abr21.pdf)
+
+[Tarea infografía de Nelson Mandela](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Infograf%C3%ADa_NelsonMandela.pdf)
+
+[Líder carismático](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Lider%20Carism%C3%A1tico.pdf)
+
+[Teoría del reforzamiento](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teoria%20del%20reforzamiento.pdf)
+
+[Teoría Z y Teoría de motivación-higíene](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_TeoriasZ.pdf)
+
+[Teoría de espectativas y equidad](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teor%C3%ADa%20Expectativas%20y%20Equidad%20equipo%206.pdf)
+
+[Teoría de intercambio del líder-miembro](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teor%C3%ADa%20de%20intercambio%20del%20l%C3%ADder-miembro.pdf)
+
+[Teorías contemporáneas de la motivación](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teor%C3%ADa%20del%20establecimiento%20de%20metas.pdf)
+
+[Teoría de autoeficacia](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teor%C3%ADa_de_autorficacia.pdf)
+
+[Teoría de liderazgo situacional y Teoría del camino hacia la meta](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teor%C3%ADasDeLiderazgo_Equipo2.pdf)
+
+[Liderazgo trasnacional y transformacional](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_TransnacionalYTransformacional.pdf)
+
 
 I N F E R E N C I A  
 

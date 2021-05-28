@@ -183,6 +183,75 @@ Parcial 3
 
 [Parcial 3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1860533_DeLeonFlores.pdf)
 
+Parcial 4
+
+[Unidad 5: Pruebas de Hipotésis](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Unidad%205%20Pruebas%20de%20hip%C3%B3tesis%20Feb-Jun21.pdf)/
+[Ejemplos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Unidad5Pruebadehip%C3%B3tesis.pdf)
+
+[Tarea unidad 5 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Tarea%20Unidad%205%20Inferencia%20estadistica.pdf)
+
+[Tarea unidad 5](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Tareau5.pdf)
+
+[Parcial 4 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_4to.%20Examen%20Parcial%20Estadistica%20Inferencial%20Feb-Jun21.pdf)
+
+[Parcial 4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Ex4_DeLeonFlores.pdf)
+
+[DISTRIBUCIONES](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Distribuciones.pdf)/[TABLAS de distribuciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Inf_Tablas%20de%20Distribuci%C3%B3n.pdf)
+
+
+C O N T A B I L I D A D // S E G U R O S
+
+Parcial 1
+
+[Aspectos generales](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Aspectos_Generales.pdf)
+
+[Sector asegurador](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_internet.pdf)
+
+[Catalogo de cuentas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_ANEXO%2012.1.1.pdf)
+
+[Ejemplo Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Ejemplo.xlsx)
+
+Parcial 2
+
+[Capital mínimo pagado con que deben contar las instituciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_ANEXO%206.1.2.pdf)
+
+[Parcial 2, excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_P2.xls)
+
+Presentación por equipo
+
+[Administración integral de riesgos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Administracion%20Integral%20de%20Riesgos.pdf)
+
+[Gobierno corporativo](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Gobierno_Corporativo.pdf)
+
+[Notas técnicas y registro de producto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Notas_Tecnicasy_RP.pdf)
+
+[Organización y constitución de aseguradoras](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Organizaci%C3%B3n%20y%20constituci%C3%B3n%20de%20aseguradoras.pdf)
+
+[Reaseguro](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Reaseguro.pdf)
+
+É T I C A 
+
+[Tarea leyes universales e históricas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_Tarea3_Leyes%20universales%20e%20hist%C3%B3ricas.pdf)
+
+[PIA](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_PIA.pdf)
+[PIA-resultados](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/%C3%89tica_PIA_Resultados.pdf)
+
+
+L I D E R A Z G O
+
+[Plan de desarrollo personal](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/L_Plan_Desarrollo_Personal.pdf)
+
+[Producto innovador](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/L_Producto_Innovador.pdf)
+
+R E S P O N S A B I L I D A D
+
+[Evidencia 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/E1_DeLe%C3%B3nFlores.pdf)
+
+[Evidencia 2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/E2_DeLe%C3%B3nFlores.pdf)
+
+[Evidencia 3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/E3_DeLe%C3%B3nFlores.pdf)
+
+[PIA](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Equipo4_PIA.pdf)/[PIA-video](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/E4_Grupo004_Equipo%234.pdf)
 
 
 

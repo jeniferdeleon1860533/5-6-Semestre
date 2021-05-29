@@ -104,10 +104,6 @@ Parcial 1
 
 [Tarea cuadro sinóptico](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tarea_CuadroSin%C3%B3ptico.pdf)
 
-PIA
-
-[Caso 3-Creación de una coalición](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Caso3_Equipo2.pdf)
-
 
 Parcial 2
 
@@ -132,6 +128,10 @@ Parcial 2
 [Teoría de liderazgo situacional y Teoría del camino hacia la meta](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Teor%C3%ADasDeLiderazgo_Equipo2.pdf)
 
 [Liderazgo trasnacional y transformacional](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_TransnacionalYTransformacional.pdf)
+
+PIA
+
+[Caso 3-Creación de una coalición](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/CO_Caso3_Equipo2.pdf)
 
 
 I N F E R E N C I A  
@@ -229,6 +229,14 @@ Presentación por equipo
 [Organización y constitución de aseguradoras](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Organizaci%C3%B3n%20y%20constituci%C3%B3n%20de%20aseguradoras.pdf)
 
 [Reaseguro](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Reaseguro.pdf)
+
+[Auditoría externa actuarial](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Auditoria%20Externa%20Actuarial.pdf)
+
+[Control interno](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Control%20Interno.pdf)
+
+[Función actuarial](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Funci%C3%B3n%20Actuarial.pdf)
+
+[Nota técnica](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Conta_Nota%20tecnica.pdf)
 
 É T I C A 
 

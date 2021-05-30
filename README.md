@@ -67,6 +67,9 @@ Presentación 2
 QUIZ /
 [8,9,10](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/QUIZ.pdf)
 
+Examen Parcial 2
+[Parcial 2 instrucciones](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/MM_Examen2.pdf)/[E2 resuelto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/MM_Ex2_1860533.pdf)
+
 M I N E R Í A       /   D E      /   D A T O S
 
 [URL de libros de phyton](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Links_MD.pdf)

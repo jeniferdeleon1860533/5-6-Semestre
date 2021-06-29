@@ -266,6 +266,27 @@ R E S P O N S A B I L I D A D
 
 [PIA](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Equipo4_PIA.pdf)/[PIA-video](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/E4_Grupo004_Equipo%234.pdf)
 
+M É T O D O S // E S T A D Í S T I C O S
+
+Parcial 1
+
+Estadística no paramétrica
+
+[Pruebas no paramétricas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/1Pruebas_no_param%C3%A9tricas.pdf)
+
+[Pruebas de bondad y ajuste](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/2BONDAD_de_AJUSTE.pdf)
+
+[Tablas de contingencia](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/3TABLAS_de_CONTINGENCIA.pdf)
+
+[Excel con ejercicios](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Datos_NoParametrica%20(1).xlsx)/[Excel con ejercicios resueltos]()
+
+[Tabla de Wilcoxón](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tabla_ValoresWilcoxon.jpg)
+
+[Tabla de Mann-Withney 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/tablas-de-MannWhitney1.jpg)/ [2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/tablas-de-MannWhitney2.jpg)/ [3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/tablas-de-MannWhitney3.jpg)
+
+
+
+
 
 
 

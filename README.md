@@ -278,7 +278,13 @@ Estadística no paramétrica
 
 [Tablas de contingencia](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/3TABLAS_de_CONTINGENCIA.pdf)
 
-[Excel con ejercicios](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Datos_NoParametrica%20(1).xlsx)/[Excel con ejercicios resueltos]()
+[Excel con ejercicios](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Datos_NoParametrica%20(1).xlsx)/[Excel con ejercicios resueltos](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Datos_NoParametrica_re.xlsx)
+
+[Excel con ejemplos de estaturas](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Estatura.xlsx)
+
+[Evidencia 1 pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia1.pdf)/[Evidencia 1 excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia_1.xlsx)
+
+[Evidencia 2 pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia2.pdf)/[Evidencia 2 excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia2.xlsx)
 
 [Tabla de Wilcoxón](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Tabla_ValoresWilcoxon.jpg)
 

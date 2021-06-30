@@ -290,7 +290,7 @@ Estadística no paramétrica
 
 [Tabla de Mann-Withney 1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/tablas-de-MannWhitney1.jpg)/ [2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/tablas-de-MannWhitney2.jpg)/ [3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/tablas-de-MannWhitney3.jpg)
 
-
+[Parcial 1 pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Parcial1_ME.pdf)/[Parcial 1 excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Parcial1_ME.xlsx)
 
 
 

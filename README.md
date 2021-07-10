@@ -304,7 +304,7 @@ Análisis de regresión simple
 
 [Supuestos del modelo](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/7Supuestos_Modelo_Regresion.pdf)
 
-[Ejemplos Excel]// [1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_30_Junio.xlsx)/
+Ejemplos Excel// [1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_30_Junio.xlsx)/
 [2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej2.xlsx)/
 [3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej3.xlsx)/
 [4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej4.xlsx)/

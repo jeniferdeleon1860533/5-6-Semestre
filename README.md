@@ -314,8 +314,7 @@ Evidencia 3/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main
 
 Evidencia 4/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.xlsx)
 
-
-
+[Parcial 2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/P2B_DeLe%C3%B3n_Flores.pdf)
 
 
 

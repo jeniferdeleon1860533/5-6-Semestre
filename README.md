@@ -292,6 +292,27 @@ Estadística no paramétrica
 
 [Parcial 1 pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Parcial1_ME.pdf)/[Parcial 1 excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Parcial1_ME.xlsx)
 
+Parcial 2
+
+Análisis de regresión simple
+
+[Regresión y correlación](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/4RegresionyCorrelacion.pdf)
+
+[Regresión lineal simple](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/5Regresion_lineal_simple.pdf)
+
+[Modelos linealizables](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/6Modelos_Linealizables.pdf)
+
+[Supuestos del modelo](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/7Supuestos_Modelo_Regresion.pdf)
+
+[Ejemplos Excel]// [1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_30_Junio.xlsx)/
+[2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej2.xlsx)/
+[3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej3.xlsx)/
+[4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej4.xlsx)/
+[5](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_2Julio_ej5.xlsx)/
+
+[Evidencia 3]/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia3.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia3.xlsx)
+
+[Evidencia 4]/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.xlsx)
 
 
 

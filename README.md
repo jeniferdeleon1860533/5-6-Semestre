@@ -310,9 +310,9 @@ Análisis de regresión simple
 [4](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_1Julio_ej4.xlsx)/
 [5](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Modelos_2Julio_ej5.xlsx)/
 
-[Evidencia 3]/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia3.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia3.xlsx)
+Evidencia 3/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia3.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia3.xlsx)
 
-[Evidencia 4]/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.xlsx)
+Evidencia 4/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.pdf)/[Excel](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia4.xlsx)
 
 
 

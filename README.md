@@ -316,6 +316,14 @@ Evidencia 4/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main
 
 [Parcial 2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/P2B_DeLe%C3%B3n_Flores.pdf)
 
+Parcial 3
 
+Análisis de regresión multiple
 
+[Regresión lineal múltiple](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/8REGRESI%C3%93N_LINEAL_MULTIPLE.pdf)
 
+[Selección de variables y formación del modelo](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/9Selecci%C3%B3n_Variables.pdf)
+
+Ejemplos Excel/[1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Reg_Mul_ej1.xlsx)/[2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Reg_Mul_ej2.xlsx)
+
+Evidencia 5/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/EVIDENCIA5.pdf)/[Minitab](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia%205.mpx)

@@ -327,3 +327,5 @@ Análisis de regresión multiple
 Ejemplos Excel/[1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Reg_Mul_ej1.xlsx)/[2](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Reg_Mul_ej2.xlsx)
 
 Evidencia 5/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/EVIDENCIA5.pdf)/[Minitab](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia%205.mpx)
+
+[Parcial 3](

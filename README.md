@@ -328,4 +328,6 @@ Ejemplos Excel/[1](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/mai
 
 Evidencia 5/[pdf](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/EVIDENCIA5.pdf)/[Minitab](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Evidencia%205.mpx)
 
-[Parcial 3](
+[Parcial 3](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/P3B_DeLe%C3%B3nFlores.pd)
+
+[Proyecto](https://github.com/jeniferdeleon1860533/5-6-Semestre/blob/main/Proyecto_Washington.pdf)
